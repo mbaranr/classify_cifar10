@@ -1,4 +1,4 @@
-# Supervised Learning to CIFAR10
+# Classifying CIFAR-10
 
 For more information, see [post](https://mbaranr.github.io/blog/2023/classify_cifar10/).
 
