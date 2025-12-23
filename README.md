@@ -1,6 +1,6 @@
 # CIFAR-10 Classification: End-to-End Deep Learning PyTorch Tutorial
 
-This repository is a practical tutorial covering the full lifecycle of a deep learning project for [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10) classification using PyTorch.
+This repository serves as a practical tutorial covering the full lifecycle of a deep learning project for [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10) classification using PyTorch.
 
 The goal is not just to train a model, but to demonstrate how real projects are built end to end.
 
