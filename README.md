@@ -16,6 +16,6 @@ Each topic is split into:
 
 This tutorial is made for:
 - students learning practical deep learning
-- engineers transitioning from “toy examples” to real pipelines
+- engineers transitioning from experimentation to production
 - anyone looking to explore PyTorch’s full potential
 
