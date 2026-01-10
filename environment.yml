@@ -1,0 +1,22 @@
+name: pytorch-cifar-tutorial
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - libjpeg-turbo
+  - libpng
+  - imageio
+  - torchvision
+  - matplotlib
+  - scikit-learn
+  - pytorch-lightning
+  - seaborn
+  - numpy
+  - ipykernel
+  - pip
+  - pip:
+    - optuna
+    - torch-pruning
