@@ -16,6 +16,9 @@ dependencies:
   - seaborn
   - numpy
   - ipykernel
+  - onnx
+  - onnxscript
+  - onnxruntime
   - pip
   - pip:
     - optuna

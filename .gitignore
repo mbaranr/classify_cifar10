@@ -3,3 +3,4 @@ __pycache__/
 cifar10/
 .DS_Store
 profiler_logs/
+*.onnx*

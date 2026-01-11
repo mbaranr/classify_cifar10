@@ -69,4 +69,3 @@ def train(model, num_epochs, train_loader, val_loader, optimizer, loss_fn, devic
 
     print(f"Final Validation Accuracy: {val_acc*100:.2f}%")
     plot_losses([train_losses, val_losses], ["Train Loss", "Validation Loss"])
-
