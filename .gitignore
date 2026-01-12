@@ -4,3 +4,4 @@ cifar10/
 .DS_Store
 profiler_logs/
 *.onnx*
+model_int8*
